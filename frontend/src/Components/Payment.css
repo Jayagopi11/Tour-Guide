@@ -1,0 +1,15 @@
+.card {
+    border: none;
+    background-color: #aba8a830;
+  }
+  
+  .btn-success {
+    background: linear-gradient(135deg, #28a745, #218838);
+    border: none;
+    font-weight: 500;
+  }
+.btn-success:hover{
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+  
